@@ -14,7 +14,8 @@ O Projeto consiste na construção de um portifólio para exibição de projetos
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / CSS 
+- HTML / CSS
+- Bootstrap 4
 
 ## Implantação em produção
 - Front end web: Netlify
