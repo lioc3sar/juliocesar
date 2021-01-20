@@ -11,9 +11,6 @@ O Projeto consiste na construção de um portifólio para exibição de projetos
 ## Layout web
 ![Web 1](https://github.com/c3saroliveira/portifolio/blob/main/assets/tela-main.JPG)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/c3saroliveira/dsdeliver-sds2/blob/main/assets/modelo-conceitual.png)
-
 # Tecnologias utilizadas
 
 ## Front end
