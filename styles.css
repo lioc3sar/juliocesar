@@ -11,6 +11,10 @@ p {
     color: white !important;
 }
 
+.colorSecundary{
+    color:#007bff !important;
+}
+
 .colorSecundaryBackground{
     background-color: #007bff !important;
 }
