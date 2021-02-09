@@ -4,7 +4,7 @@
 }
 
 p {
-    font-family: Lato, "Helvetica", Arial, Helvetica, sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 .colorPrimary{
@@ -38,6 +38,10 @@ p {
 
 .jumbotron {
     margin-bottom: 0;
+}
+
+.navbar {
+    background-color:#007bff
 }
 
 .textoFooter{
