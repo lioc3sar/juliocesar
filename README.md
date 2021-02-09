@@ -18,7 +18,7 @@ O Projeto consiste na construção de um portifólio para exibição de projetos
 - Bootstrap 4
 
 ## Implantação em produção
-- Front end web: Netlify
+- Front web: Netlify
 
 # Autor
 
