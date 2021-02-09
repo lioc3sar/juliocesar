@@ -50,3 +50,7 @@ p {
     padding-bottom: 15px;
 }
 
+.card-text {
+    text-align: justify
+}
+
