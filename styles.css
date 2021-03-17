@@ -1,73 +1,70 @@
 .foto-perfil {
-    height: 170px;
-    width: 170px;
-    border: 2px solid white;
-    border-radius: 50%;
-    margin: 10px;
+  height: 170px;
+  width: 170px;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin: 10px;
+}
+.imageBackground {
+  background-color: #3155a4 !important;
+  border-radius: 0% !important;
 }
 
 p {
-    font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 strong.project-title {
-    font-family: "Poppins", sans-serif;
-    font-size: 1.5rem;
-    
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
 }
 
-.colorPrimary{
-    color: white !important;
+.colorPrimary {
+  color: white !important;
 }
 
-.colorSecundary{
-    color:#3155A4 !important;
+.colorSecundary {
+  color: #3155a4 !important;
 }
 
-.colorSecundaryBackground{
-    background-image: url(../images/bandeira-pernambuco.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-   
+.colorSecundaryBackground {
+  background-color: #3155a4 !important;
 }
 .titulos-brancos {
-    padding: 20px;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: white !important;
-
+  padding: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: white !important;
 }
 
 .titulos-pretos {
-    padding: 20px;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: #000000;
+  padding: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000000;
 }
 .icones {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 .jumbotron {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .navbar {
-    background-color:#3155A4;
+  background-color: #3155a4;
 }
 
-.texto-footer{
-    margin: 0;
-    padding-top: 15px;
-    padding-bottom: 15px;
+.texto-footer {
+  margin: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .center {
-    text-align: center !important;
-
+  text-align: center !important;
 }
 
 .card-text {
-    text-align: justify
+  text-align: justify;
 }
-
