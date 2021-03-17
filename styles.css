@@ -21,11 +21,14 @@ strong.project-title {
 }
 
 .colorSecundary{
-    color:#007bff !important;
+    color:#3155A4 !important;
 }
 
 .colorSecundaryBackground{
-    background-color: #007bff !important;
+    background-image: url(../images/bandeira-pernambuco.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
 }
 .titulos-brancos {
     padding: 20px;
@@ -50,7 +53,7 @@ strong.project-title {
 }
 
 .navbar {
-    background-color:#007bff
+    background-color:#3155A4;
 }
 
 .texto-footer{
