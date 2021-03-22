@@ -6,7 +6,7 @@
 
 https://julio-cesar.netlify.app/
 
-O Projeto consiste na construção de um portifólio para exibição de projetos desenvolvidos, competências, certificados e contato.Foi utilizado HTML5 para desenvolver a aplicação Web publicada no Netlify.
+O Projeto consiste na construção de um portifólio para exibição de projetos desenvolvidos, competências, certificados e contato. Foi utilizado HTML5 para desenvolver a aplicação Web publicada no Netlify.
 
 ## Layout web
 ![Web 1](https://github.com/c3saroliveira/juliocesar/blob/main/assets/me.png)
