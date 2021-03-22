@@ -1,4 +1,4 @@
-# Portifólio :bust_in_silhouette:	
+# Portifólio
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/c3saroliveira/portifolio/blob/main/LICENSE) 
 
