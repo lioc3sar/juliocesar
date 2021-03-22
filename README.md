@@ -9,7 +9,14 @@ https://julio-cesar.netlify.app/
 O Projeto consiste na construção de um portifólio para exibição de projetos desenvolvidos ou em desenvolvimento, utilizei Html5 para desenvolver a aplicação Web publicada no Netlify.
 
 ## Layout web
-![Web 1](https://github.com/c3saroliveira/portifolio/blob/main/assets/tela-main.JPG)
+![Web 1](https://github.com/c3saroliveira/juliocesar/blob/main/assets/me.png)
+
+![Web 2](https://github.com/c3saroliveira/juliocesar/blob/main/assets/projects.png)
+
+![Web 3](https://github.com/c3saroliveira/juliocesar/blob/main/assets/skills.png)
+
+![Web 4](https://github.com/c3saroliveira/juliocesar/blob/main/assets/certificates.png)
+
 
 # Tecnologias utilizadas
 
