@@ -1,12 +1,15 @@
 .foto-perfil {
-  height: 170px;
-  width: 170px;
+  height: 180px;
+  width: 180px;
   border: 2px solid white;
   border-radius: 50%;
   margin: 10px;
-  object-fit: cover;
-
+  background-size: cover;
+  background-image: url(../images/perfil.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
 }
+
 .imageBackground {
   background-color: #3155a4 !important;
   border-radius: 0% !important;
